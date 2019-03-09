@@ -9,6 +9,7 @@ Clone this repository then inside that folder run:
 to install all dependencies.
 
 Then finally run
+
     npm run dev
 
 to run the local server
