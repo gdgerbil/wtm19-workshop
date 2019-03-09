@@ -1,0 +1,19 @@
+button {
+    padding: 10px;
+}
+
+
+#app * {
+    font-family: sans-serif
+}
+
+.left {
+    display: inline;
+    width: 300px
+}
+.right {
+    display: inline;
+    width: 300px;
+    float: right;
+}
+
